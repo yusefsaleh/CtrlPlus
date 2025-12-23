@@ -52,8 +52,8 @@ const Contact = () => {
     }));
 
     const contactInfo = [
-        { icon: <Mail size={24} />, text: 'info@ctriplusevents.com', link: 'mailto:info@ctriplusevents.com' },
-        { icon: <Phone size={24} />, text: '+9627 9785 5584', link: 'tel:+9627XXXXXXX' },
+        { icon: <Mail size={24} />, text: 'info@ctrlplusevents.com', link: 'mailto:info@ctrlplusevents.com' },
+        { icon: <Phone size={24} />, text: '+9627 9785 5584', link: 'tel:+962797855584' },
         { icon: <MapPin size={24} />, text: 'Amman, Jordan', link: '#' }
     ];
 
