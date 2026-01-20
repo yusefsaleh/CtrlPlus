@@ -52,7 +52,7 @@ const Contact = () => {
     }));
 
     const contactInfo = [
-        { icon: <Mail size={24} />, text: 'info@ctrlplusevents.com', link: 'mailto:info@ctrlplusevents.com' },
+        { icon: <Mail size={24} />, text: 'ad.khater25@gmail.com', link: 'mailto:ad.khater25@gmail.com' },
         { icon: <Phone size={24} />, text: '+9627 9785 5584', link: 'tel:+962797855584' },
         { icon: <MapPin size={24} />, text: 'Amman, Jordan', link: '#' }
     ];
@@ -410,7 +410,7 @@ const Contact = () => {
                             overflow: 'hidden',
                             cursor: 'pointer'
                         }}
-                        onClick={() => window.location.href = 'mailto:info@ctriplusevents.com'}
+                        onClick={() => window.location.href = 'mailto:ad.khater25@gmail.com'}
                         onMouseEnter={() => setIsHovered(true)}
                         onMouseLeave={() => setIsHovered(false)}
                         whileHover={{
